@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «Object, Reflection и Proxy»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/3vr0q3r77ah93mxr?svg=true)](https://ci.appveyor.com/project/Professor-Severus-Snape/ajs-objects)
+
 ## Важно:
 1. Код должен проходить ESLint без ошибок.
 2. Unit-тесты должны обеспечивать 100% покрытие тестируемых функций по строкам.
